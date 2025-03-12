@@ -6,5 +6,7 @@ We designed an app aimed at students to help sort through their tasks. We employ
 
 The app also has a movies and tv show feature which helps users to decide what to watch during their rest time to promote mental health management. This section uses the same mechanic of picking genres the user would like to watch and then swiping on which movie/show they prefer to watch and the app creates a list of recommendations. 
 
+Posted on Devpost: https://devpost.com/software/flicklist-ueplwo
+
 ### A dataset of netflix shows was used for the example code
 
